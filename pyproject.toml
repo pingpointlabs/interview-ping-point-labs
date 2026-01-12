@@ -1,0 +1,11 @@
+[project]
+name = "interview-ping-point-labs"
+version = "0.1.0"
+description = "PingPoint Labs Technical Interview - PDF Door Schedule Extraction"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pymupdf>=1.23.0",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+]
